@@ -1,0 +1,7 @@
+C:\Users\Estudiente_CTI\source\repos\chamba 1\obj\Debug\chamba 1.csproj.AssemblyReference.cache
+C:\Users\Estudiente_CTI\source\repos\chamba 1\obj\Debug\chamba 1.csproj.CoreCompileInputs.cache
+C:\Users\Estudiente_CTI\source\repos\chamba 1\bin\Debug\chamba 1.exe.config
+C:\Users\Estudiente_CTI\source\repos\chamba 1\bin\Debug\chamba 1.exe
+C:\Users\Estudiente_CTI\source\repos\chamba 1\bin\Debug\chamba 1.pdb
+C:\Users\Estudiente_CTI\source\repos\chamba 1\obj\Debug\chamba 1.exe
+C:\Users\Estudiente_CTI\source\repos\chamba 1\obj\Debug\chamba 1.pdb
